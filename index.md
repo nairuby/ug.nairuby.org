@@ -5,8 +5,8 @@ sitemap: true
 permalink: /
 ---
 
-Welcome to **Nairuby**, a user group for [Ruby][5] programmers based in
-[Nairobi, Kenya][nairobi-kenya-map]. We welcome all programmers of all levels,
+Welcome to **{{ site.name }}**, a user group for [Ruby][5] programmers based in
+[Kampala, Uganda][kampala-uganda-map]. We welcome all programmers of all levels,
 from beginner to advanced!
 
 As a hacker group we promote the [Open Source][11] Culture and whenever we can,
@@ -80,7 +80,7 @@ various software projects and initiaves. Some of the notable ones are:
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
 [mail-list]: https://groups.google.com/forum/#!forum/nairuby
-[nairobi-kenya-map]: http://goo.gl/AMspr8
+[kampala-uganda-map]: http://goo.gl/maps/kag5cNXE3rq
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
 [twitter]: https://twitter.com/NairubyKE

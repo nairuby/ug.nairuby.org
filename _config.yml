@@ -1,4 +1,4 @@
-name: Nairuby
+name: Nairuby UG
 markdown: redcarpet
 highlighter: pygments
 permalink: /:categories/:year/:month/:title/
