@@ -1,4 +1,4 @@
-set :deploy_to, '/var/www/nairuby.org'
+set :deploy_to, '/var/www/ug.nairuby.org'
 set :branch, 'master'
 
 role :app, %w{ubuntu@52.36.134.184}
