@@ -1,5 +1,5 @@
 ---
-title: Nairobi Ruby Brigade
+title: Kampala Ruby Brigade
 layout: homepage
 sitemap: true
 permalink: /
