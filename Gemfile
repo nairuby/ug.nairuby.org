@@ -1,15 +1,21 @@
 source 'https://rubygems.org'
+ruby '2.3.0'
 
-# Bootstrap the GitHub Pages Jekyll environment locally.
-gem 'github-pages'
-
-# Test your rendered HTML files to make sure they're accurate.
-gem 'html-proofer'
-
-# Rake is a Make-like program implemented in Ruby.
-gem 'rake'
+gem "activesupport", require: "active_support/inflector"
+gem "createsend", "1.0.4"
+gem "compass"
+gem "json"
+gem "haml"
+gem "pony"
+gem "sinatra"
+gem "zurb-foundation"
+gem "thin"
 
 # Deploy with capistrano
 gem 'capistrano',  '~> 3.4.0', group: :development
 gem 'capistrano-rvm'
 gem 'capistrano-bundler'
+
+group :development do
+  gem "sinatra-contrib", require: false
+end
